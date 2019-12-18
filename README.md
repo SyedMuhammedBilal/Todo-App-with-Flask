@@ -8,10 +8,17 @@ making a REST API with Flask and connecting it to MongoDB database
 3) bson-objectid
 
 # Todo-App-with-Flask with approch of TDD (TEST DRIVEN DEVELOPMENT) (SQL)
-Todo App with flsk and SQLAlchemy
+Todo App with Flask and SQLAlchemy
 making a REST API with Flask and connecting it to MySQL database
 
 # Requirments
 1) Flask
 2) Flask-SQLAlchemy
 3) Flask-MySQL
+
+# Todo-App-with-Flask and gRPc (MySQL)
+Todo App with Flask(gRPc) and MySQL
+
+# Requirments
+1) flask-graphene
+2) graphene-sqlalchemy
