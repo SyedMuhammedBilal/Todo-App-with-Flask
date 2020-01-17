@@ -20,7 +20,9 @@ class createTodo(graphene.Mutation):
 
 	@classmethod
 	def mutate(cls, _, context, **kwargs):
-			todo = TodoModel(title=kwargs.get("title"), description=kwargs.get("description"), done=kwargs.get("done"))
+			todo = TodoModel(title=kwargs.get("title"), 
+			description=kwargs.get("description"), 
+			done=kwargs.get("done"))
 			db_session.add(todo)
 			db_session.commit()
 			ok = True
