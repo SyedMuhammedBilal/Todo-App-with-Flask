@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 # Connecting App to a DataBase
 app.config["MONGO_DBNAME"] = "cluster0"
-app.config["MONGO_URI"] = "mongodb+srv://SyedMuhammed:rb26dettrb30@cluster0-0glm6.gcp.mongodb.net/test?retryWrites=true&w=majority"
+app.config["MONGO_URI"] = "mongodb+srv://SyedMuhammed:1234@cluster0-0glm6.gcp.mongodb.net/test?retryWrites=true&w=majority"
 mongo = PyMongo(app)
 # print(mongo)
 # task_id = ObjectId()
