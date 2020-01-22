@@ -1,7 +1,7 @@
 from mongoengine import connect
 from models import Id, Title, Description, Done
 
-connect(host="mongodb+srv://SyedMuhammed:rb26dettrb30@cluster0-0glm6.gcp.mongodb.net/test?retryWrites=true&w=majority")
+connect(host="mongodb+srv://SyedMuhammed:1234@cluster0-0glm6.gcp.mongodb.net/test?retryWrites=true&w=majority")
 
 def init_db():
 
