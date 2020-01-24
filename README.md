@@ -7,7 +7,7 @@ making a REST API with Flask and connecting it to MongoDB database
 2) Flask-PyMongo
 3) bson-objectid
 
-# Todo-App-with-Flask with approch of TDD (TEST DRIVEN DEVELOPMENT) (SQL)
+# Todo-App-with-Flask with approch of TDD (TEST DRIVEN DEVELOPMENT) (MYSQL)
 Todo App with Flask and SQLAlchemy
 making a REST API with Flask and connecting it to MySQL database
 
