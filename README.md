@@ -17,7 +17,7 @@ making a REST API with Flask and connecting it to MySQL database
 3) Flask-MySQL
 
 # Todo-App-with-Flask and gRPc (graphql)(MySQL)
-Todo App with Flask(gRPc) and MySQL
+Todo App with Flask(gRPC) and MySQL
 
 # Requirments
 1) flask-graphene
